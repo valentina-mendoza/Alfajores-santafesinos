@@ -1,0 +1,26 @@
+body {background-color: #F7953E;
+background-image: url(https://i.pinimg.com/originals/ac/d2/20/acd2208344780476b06dd7dc8d7fd0ec.jpg);
+background-repeat: repeat;}
+
+.nombre {
+text-align: center;
+letter-spacing: 8px;
+text-decoration: none;
+font-size: 50px;
+font-weight: 1200;
+color: #237A12;
+margin: 20px;}
+.correo {text-align: center;
+letter-spacing: 8px;
+text-decoration: none;
+font-size: 50px;
+font-weight: 1200;
+color: #237A12;
+margin:50px;}
+.mensaje {text-align: center;
+letter-spacing: 8px;
+text-decoration: none;
+font-size: 50px;
+font-weight: 1200;
+color: #237A12;
+margin:50px; }

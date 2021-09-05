@@ -1,0 +1,46 @@
+* {margin: 2%;}
+
+body {background-color: #D9B68F;}
+
+.title
+{font-size: 75px;
+
+ -webkit-text-fill-color: #A51344;
+ -webkit-text-stroke: 2px black;
+ font-family: 'Segoe print';
+ font-weight: normal;
+ font-style: normal;}
+
+ body img {border-radius:50%;
+ float: left;}
+
+ .texto {float: center;
+   font-family: 'Clarendon BT';
+   font-weight: normal;
+   font-style: normal;}
+
+   .ingredientes{clear: both;
+   text-align: center;}
+
+section {font-family: 'Clarendon BT';
+font-weight: normal;
+font-style: normal;
+  text-align: center;
+float: left;
+width:44%;
+height:250px;
+border:5px solid black;}
+
+aside {font-family: 'Clarendon BT';
+font-weight: normal;
+font-style: normal;
+  text-align: center;
+  float: left;
+  width:44%;
+  height:250px;
+  border:5px solid black;}
+
+.preparacion {clear: both;}
+
+footer {background: #A51344;
+text-align: center;}

@@ -1,0 +1,135 @@
+* {margin: 0.5%;}
+body {background-color: #F7953E;
+background-image: url(https://i.pinimg.com/originals/ac/d2/20/acd2208344780476b06dd7dc8d7fd0ec.jpg);
+background-repeat: repeat;}
+header {
+	width:1350px; height:100px;
+	overflow:hidden;
+	background:#DBDF42;
+  background-image: url(https://image.freepik.com/vector-gratis/fondo-colorido-frutas-verduras-patron_1374-96.jpg);
+	margin:1px;
+  text-align: center;
+  font-size: 30pt;
+  font-weight: 350;
+  -webkit-text-stroke: 3px black;
+  color: #1AB912;
+}
+nav ul{
+    margin: 0;
+    padding: 10px 0px 10px 0px;
+    list-style: none;
+    line-height: normal;
+
+  }
+ li{
+   	display: inline-block;
+
+}
+li a {
+  display: inline-block;
+  background-color: black;
+  padding: 20px;
+	width: 100%;
+  letter-spacing: 8px;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 1200;
+  color: #237A12;
+}
+.sushi :hover {background-color: #FB3734;
+color: black;}
+.tacos :hover{background-color: #74E521;
+color: black;}
+.hamburguesas :hover{background-color: #3861EC;
+color: black;}
+	.chorizo :hover{background-color: #DCEC3E;
+	color: black;}
+		.empanadas :hover{background-color: #FA6482;
+		color: black;}
+.arroz :hover{background-color: #F7AA53;
+color: black;}
+
+.title {float: center;
+font-family: 'Clarendon BT';
+color: white;
+font-size: 30pt;
+text-align: center;
+font-weight: 100;
+font-style: normal;}
+
+.introduccion {
+	float: center;
+	font-family: 'Clarendon BT';
+	color: white;
+	font-size: 15pt;
+	text-align: center;
+	font-weight: 15px;
+	font-style: normal;}
+
+.title1 {float: center;
+font-family: 'Clarendon BT';
+color: white;
+text-align: center;
+font-size: 30pt;
+font-weight: 100;
+font-style: normal;}
+
+.texto1 {
+	float: center;
+	font-family: 'Clarendon BT';
+	color: white;
+	text-align: center;
+	font-size: 15pt;
+	font-weight: 15px;
+	font-style: normal;}
+
+	.title2{clear: both;
+	text-align: center;
+	font-family: 'Clarendon BT';
+	color: white;
+	font-size: 30pt;
+	font-weight: 100;
+	font-style: normal;}
+
+	.texto1::after {content: url(https://www.migrandominio.com/wp-content/uploads/2018/10/lisa-simpson-a-punto-de-comer-carne-piensa-en-el-corderito.jpg)}
+
+	 section{float: center;
+	font-family: 'Clarendon BT';
+	color: white;
+	font-size: 15pt;
+	font-weight: 15px;
+	font-style: normal;}
+
+	section ul{
+	    margin: 0;
+	    padding: 10px 0px 10px 0px;
+	    list-style: none;
+	    line-height: normal;}
+
+			li{
+		    	display: inline-block;
+
+		 }
+		 li a {
+		   display: inline-block;
+		   background-color: black;
+		   padding: 20px;
+		 	width: 100%;
+		   letter-spacing: 8px;
+		   text-decoration: none;
+		   font-size: 20px;
+		   font-weight: 1200;
+		   color: #237A12;
+}
+	.oveggie :hover {background-color: red;
+	color: black;}
+	.lveggie :hover{background-color: #3FAA1A;
+	color: black;}
+	.sveggie :hover{background-color: blue;
+	color: black;}
+		.fveggie :hover{background-color: yellow;
+		color: black;}
+			.pveggie :hover{background-color: white;
+			color: black;}
+	.vegan :hover{background-color: brown;
+	color: black;}
